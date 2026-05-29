@@ -1,4 +1,4 @@
-# Código verde: o bug do descarte infinito
+# Sistema de estágio CPS
 Este é o repositório contendo os arquivos de código fonte do projeto de TCC da turma de Desenvolvimentos de Sistemas da ETEC Paulino Botelho.
 
 # Integrantes
